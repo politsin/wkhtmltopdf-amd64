@@ -1,6 +1,6 @@
 {
     "name": "politsin/wkhtmltopdf-amd64",
-    "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for amd64 systems. (update with ssl support)",
     "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "LGPL Version 3",
     "homepage": "http://wkhtmltopdf.org/",
