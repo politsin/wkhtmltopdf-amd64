@@ -16,6 +16,9 @@
     ],
     "require": {
     },
+    "replace": {
+        "h4cc/wkhtmltopdf-amd64": "0.12.4"
+    },
     "autoload": {
         "psr-4": {
             "politsin\\WKHTMLToPDF\\": ""
